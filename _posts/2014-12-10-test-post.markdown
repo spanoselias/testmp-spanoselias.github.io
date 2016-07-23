@@ -4,6 +4,5 @@ title:  "Welcome to my new blog"
 date:   2016-07-22
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+<p class="intro"><span class="dropcap">L</span>Welcome to my personal blog. I'm Elias Spanos and I'm from Cyprus.</p>
 
-Welcome to my personal blog. I'm Elias Spanos and I'm from Cyprus.
