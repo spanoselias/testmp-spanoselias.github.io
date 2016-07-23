@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: About Elias Spanos
 ---
 
 <div class="post">
