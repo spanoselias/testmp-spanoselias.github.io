@@ -4,5 +4,5 @@ title:  "Welcome to my new blog"
 date:   2016-07-22
 ---
 
-<p class="intro"><span class="dropcap">L</span>Welcome to my personal blog. I'm Elias Spanos and I'm from Cyprus.</p>
+<p class="intro"><span class="dropcap"></span>Welcome to my personal blog. I'm Elias Spanos and I'm from Cyprus.</p>
 
