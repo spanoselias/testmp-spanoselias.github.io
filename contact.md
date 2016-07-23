@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Elias Spanos
 ---
 
 <div id="contact">
