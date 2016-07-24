@@ -1,7 +1,7 @@
 title: Elias Spanos
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: This is my personal website
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://github.com/spanoselias
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: spanoselias
+   twitter: spanoselias
+   facebook: brianmaierjrrfw
+   email: test@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-58263416-1test"
