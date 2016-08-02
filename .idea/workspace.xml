@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Web.config" afterPath="" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -249,7 +248,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="1043000" />
+      <workItem from="1470127557417" duration="1297000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -283,7 +282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3724000" />
+    <option name="totallyTimeSpent" value="3978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -478,6 +477,14 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown">
