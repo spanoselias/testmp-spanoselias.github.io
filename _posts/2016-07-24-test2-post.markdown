@@ -6,6 +6,13 @@ date:   2016-07-24
 
 <p class="intro"><span class="dropcap"></span> I will upload shortly some useful git commands </p>
 
+How to save your credential for every push:
+
+
 ```
-int
+$ git config credential.helper store
+$ git push http://example.com/repo.git
+Username: <type your username>
+Password: <type your password>
+
 ```
