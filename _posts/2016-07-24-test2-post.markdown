@@ -9,7 +9,7 @@ date:   2016-07-24
 How to save your credential for every push:
 
 
-```
+``` ruby
 $ git config credential.helper store
 $ git push http://example.com/repo.git
 Username: <type your username>
