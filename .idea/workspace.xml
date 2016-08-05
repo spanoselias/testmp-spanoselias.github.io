@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="242">
-                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="211" selection-start-line="10" selection-start-column="211" selection-end-line="10" selection-end-column="211" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -296,7 +296,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="4357000" />
+      <workItem from="1470127557417" duration="4471000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -340,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470381152276</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Constructing my Blog">
+      <created>1470381718741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1470381718741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7038000" />
+    <option name="totallyTimeSpent" value="7152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -570,8 +577,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="211" selection-start-line="10" selection-start-column="211" selection-end-line="10" selection-end-column="211" />
             <folding />
           </first_editor>
           <second_editor />

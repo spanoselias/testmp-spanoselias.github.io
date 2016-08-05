@@ -8,4 +8,4 @@ date:   2016-07-22
 
 It is been a long time since I was thinking to create my personal blog and finally,I managed to do so. 
 Even though it is not difficult task to design and implement a simple blog, you will probably spend adequate time until to implement it.  Anyway, I do not like talking generally, so let focus on the reason of creating this blog. 
-Well, the reason of creating this blog it is just to share some things which I have or going to learn related to programming, data management and distributed system. More precisely, I like exploring data system from relational databases to big data systems (such as Hadoop and Spark). 
+Well, the reason of creating this blog it is just to share some things which I have or going to learn related to programming, data management and distributed system. More precisely, I like exploring data systems from relational databases to big data systems (such as Hadoop and Spark). 
