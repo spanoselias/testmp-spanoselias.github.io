@@ -6,3 +6,6 @@ date:   2016-07-24
 
 <p class="intro"><span class="dropcap"></span> I will upload shortly some useful git commands </p>
 
+```
+int
+```
