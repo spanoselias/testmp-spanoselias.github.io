@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my personal Blog"
+title:  "Welcome!!"
 date:   2016-07-22
 ---
 
-<p class="intro"><span class="dropcap"></span> Welcome to my personal blog. I'm Elias Spanos and I'm from Cyprus.</p>
+<p class="intro"><span class="dropcap"></span> Welcome!! </p>
 
 Welcome to my personal blog. It is been a long time since I wanted to create my personal blog and I finally managed to achieve it.  
 Even though it is not difficult task to design and implement a simple blog, you will probably spend adequate time until to implement it. 

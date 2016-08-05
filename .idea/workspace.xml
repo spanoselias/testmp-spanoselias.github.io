@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="242">
-                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -278,7 +277,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="3537000" />
+      <workItem from="1470127557417" duration="3622000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -312,7 +311,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6218000" />
+    <option name="totallyTimeSpent" value="6303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -530,8 +529,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
