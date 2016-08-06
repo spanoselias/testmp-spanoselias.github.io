@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/discuss.html" afterPath="$PROJECT_DIR$/_includes/discuss.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.md" afterPath="$PROJECT_DIR$/articles.md" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="articles.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="articles.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/articles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="660">
-                <caret line="30" column="131" selection-start-line="30" selection-start-column="131" selection-end-line="30" selection-end-column="131" />
+              <first_editor relative-caret-position="528">
+                <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-07-24-test2-post.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-07-24-test2-post.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
@@ -85,7 +86,7 @@
         </entry>
       </file>
       <file leaf-file-name="discuss.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/discuss.html">
+        <entry file="file://$PROJECT_DIR$/_includes/discuss.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="7" column="13" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="131" />
@@ -116,8 +117,8 @@
         <option value="$PROJECT_DIR$/discuss.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" />
-        <option value="$PROJECT_DIR$/articles.md" />
         <option value="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
+        <option value="$PROJECT_DIR$/articles.md" />
       </list>
     </option>
   </component>
@@ -205,6 +206,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spanoselias.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spanoselias.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -219,6 +234,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Elias\Desktop\GitTemp\blog\spanoselias.github.io\spanoselias.github.io\_includes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Elias\Desktop\GitTemp\blog\spanoselias.github.io\spanoselias.github.io\_posts" />
     </key>
@@ -302,7 +320,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="10428000" />
+      <workItem from="1470127557417" duration="11077000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -430,11 +448,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470469850335</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Constructing my Blog">
+      <created>1470469874236</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1470469874236</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13109000" />
+    <option name="totallyTimeSpent" value="13758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -631,40 +656,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/discuss.html">
+    <entry file="file://$PROJECT_DIR$/_includes/discuss.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="131" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="660">
-            <caret line="30" column="131" selection-start-line="30" selection-start-column="131" selection-end-line="30" selection-end-column="131" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown">
@@ -686,6 +683,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="374">
             <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="528">
+            <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
