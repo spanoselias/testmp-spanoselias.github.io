@@ -14,9 +14,11 @@ title: Your New Jekyll Site
       </li>
     {% endfor %}
   </ul>
+  
+  {% include discuss.html %}
+  
 </div>
 
 
  
 
-{% include discuss.html %}
