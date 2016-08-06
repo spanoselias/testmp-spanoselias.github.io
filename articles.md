@@ -20,5 +20,3 @@ title: Your New Jekyll Site
  
 
 {% include discuss.html %}
-
- 
