@@ -16,4 +16,5 @@ title: Your New Jekyll Site
   </ul>
 </div>
 
-{% include disqus.html %}
+{% include discuss.html %}
+ 
