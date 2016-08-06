@@ -17,3 +17,8 @@ title: Your New Jekyll Site
 </div>
 
 
+{% if page.comments %}
+
+{% include discuss.html %}
+
+{% endif %}
