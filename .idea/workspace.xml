@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Elias.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.md" afterPath="$PROJECT_DIR$/articles.md" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
@@ -32,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/articles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="682">
-                <caret line="35" column="150" selection-start-line="35" selection-start-column="150" selection-end-line="35" selection-end-column="150" />
+              <first_editor relative-caret-position="396">
+                <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -285,7 +282,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="8509000" />
+      <workItem from="1470127557417" duration="8622000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -382,7 +379,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11190000" />
+    <option name="totallyTimeSpent" value="11303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -624,8 +621,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="682">
-            <caret line="35" column="150" selection-start-line="35" selection-start-column="150" selection-end-line="35" selection-end-column="150" />
+          <first_editor relative-caret-position="396">
+            <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
             <folding />
           </first_editor>
           <second_editor />
