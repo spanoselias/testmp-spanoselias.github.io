@@ -6,7 +6,7 @@ date:   2016-07-24
 
 <p class="intro"><span class="dropcap"></span> Git Tutorial!! Still  </p>
 
-How to save your credential for every push:
+##How to save your credential for every push:
 
 
 ``` ruby
