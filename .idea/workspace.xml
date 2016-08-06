@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.md" afterPath="$PROJECT_DIR$/articles.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/discuss.html" afterPath="$PROJECT_DIR$/discuss.html" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/articles.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="418">
-                <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <first_editor relative-caret-position="506">
+                <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,6 +39,16 @@
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -54,8 +65,8 @@
       <file leaf-file-name="discuss.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/discuss.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="131" selection-start-line="11" selection-start-column="131" selection-end-line="11" selection-end-column="131" />
+            <state relative-caret-position="88">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -269,7 +280,7 @@
       <updated>1469622656832</updated>
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
-      <workItem from="1470127557417" duration="9404000" />
+      <workItem from="1470127557417" duration="9766000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -366,7 +377,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12085000" />
+    <option name="totallyTimeSpent" value="12447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -507,14 +518,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -599,10 +602,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/discuss.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="131" selection-start-line="11" selection-start-column="131" selection-end-line="11" selection-end-column="131" />
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discuss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -616,8 +627,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <first_editor relative-caret-position="506">
+            <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />

@@ -16,5 +16,10 @@ title: Your New Jekyll Site
   </ul>
 </div>
 
-{% include discuss.html %}
+
+{% if page.comments %}
+
+    {% include discuss.html %}
+    
+{% endif %}
  
