@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b021b0c-3acf-4e0a-9f91-58db9747e5b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" afterPath="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
     </list>
     <ignored path="spanoselias.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +36,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-07-24-test2-post.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="6" column="10838" lean-forward="false" selection-start-line="6" selection-start-column="10838" selection-end-line="6" selection-end-column="10838" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2016-07-24-test2-post.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -46,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="discuss.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/discuss.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_lambrospetrou.github.io-master.zip/lambrospetrou.github.io-master/s/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="99" />
+            <state relative-caret-position="158">
+              <caret line="264" column="4" lean-forward="false" selection-start-line="264" selection-start-column="4" selection-end-line="264" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -74,12 +89,12 @@
         <option value="$PROJECT_DIR$/_posts/2014-12-10-test-post.markdown" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2016-07-24-test-post.markdown" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/discuss.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2016-07-22-test-post.markdown" />
         <option value="$PROJECT_DIR$/articles.md" />
         <option value="$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -120,7 +135,23 @@
             <path>
               <item name="spanoselias.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="spanoselias.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spanoselias.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spanoselias.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spanoselias.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spanoselias.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spanoselias.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spanoselias.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,7 +263,7 @@
       <workItem from="1469622659970" duration="293000" />
       <workItem from="1469622980872" duration="2388000" />
       <workItem from="1470127557417" duration="11077000" />
-      <workItem from="1504629790611" duration="171000" />
+      <workItem from="1504629790611" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Test_Push">
       <created>1469622773543</created>
@@ -367,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470469874236</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Editing post">
+      <created>1504629973220</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1504629973220</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13929000" />
+    <option name="totallyTimeSpent" value="15082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1050" extended-state="0" />
@@ -415,7 +453,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test_Push" />
     <MESSAGE value="Constructing my Blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Constructing my Blog" />
+    <MESSAGE value="Editing post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editing post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -496,13 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/ie.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/ie.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -514,13 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="10102" lean-forward="false" selection-start-line="4" selection-start-column="10102" selection-end-line="4" selection-end-column="10102" />
         </state>
       </provider>
     </entry>
@@ -558,6 +583,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
@@ -566,10 +599,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_lambrospetrou.github.io-master.zip/lambrospetrou.github.io-master/s/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="264" column="4" lean-forward="false" selection-start-line="264" selection-start-column="4" selection-end-line="264" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-07-24-test2-post.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="61" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="6" column="10838" lean-forward="false" selection-start-line="6" selection-start-column="10838" selection-end-line="6" selection-end-column="10838" />
           <folding />
         </state>
       </provider>
