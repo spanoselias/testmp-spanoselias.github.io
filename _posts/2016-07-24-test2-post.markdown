@@ -4,7 +4,7 @@ title:  "Git Tutorial"
 date:   2016-07-24
 ---
 
-<p class="intro"><span class="dropcap"></span> Git Tutorial!! Still  </p>
+<p class="intro"><span class="dropcap"></span> Git Tutorial!!</p>
 
 #### How to save your credential for every push:
 
